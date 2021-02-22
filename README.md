@@ -1,2 +1,2 @@
 # soccomp-twitch
-for the cscw project on twitch social computing analyses
+Some computational work I did for a CSCW project on Twitch social computing analyses.
